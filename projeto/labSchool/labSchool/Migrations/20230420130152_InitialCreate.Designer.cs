@@ -11,7 +11,7 @@ using labSchool.Context;
 namespace labSchool.Migrations
 {
     [DbContext(typeof(LabSchoolContext))]
-    [Migration("20230414124812_InitialCreate")]
+    [Migration("20230420130152_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

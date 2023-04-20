@@ -50,7 +50,6 @@ namespace labSchool.Models.Configurations
             builder.Property(x => x.TotalAtendimentosPedagogicos)
                 .HasColumnName("Atendimentos")
                 .HasDefaultValue(0)
-                .IsRequired()
                 .HasColumnOrder(8);
 
             // NOME DA TABELA

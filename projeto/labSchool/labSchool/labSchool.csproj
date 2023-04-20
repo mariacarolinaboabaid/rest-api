@@ -46,5 +46,10 @@
   <ItemGroup>
     <Compile Remove="Context\DbContext.cs" />
     <Compile Remove="Context\DisciplineConfiguration.cs" />
+    <Compile Remove="Migrations\LabSchoolContextModelSnapshot.cs" />
+    <Compile Remove="Migrations\20230414124812_InitialCreate.cs" />
+    <Compile Remove="Migrations\20230414124812_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20230420124535_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20230420124535_InitialCreate.cs" />
   </ItemGroup>
 </Project>

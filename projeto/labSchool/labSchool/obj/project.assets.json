@@ -1917,11 +1917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/floripamaistec/Mod_1/projeto/labSchool/labSchool/labSchool.csproj",
+      "projectUniqueName": "/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/ProjetoAvaliativo_Modulo01_Floripamaistec/projeto/labSchool/labSchool/labSchool.csproj",
       "projectName": "labSchool",
-      "projectPath": "/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/floripamaistec/Mod_1/projeto/labSchool/labSchool/labSchool.csproj",
+      "projectPath": "/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/ProjetoAvaliativo_Modulo01_Floripamaistec/projeto/labSchool/labSchool/labSchool.csproj",
       "packagesPath": "/Users/mariacarolinaboabaid/.nuget/packages/",
-      "outputPath": "/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/floripamaistec/Mod_1/projeto/labSchool/labSchool/obj/",
+      "outputPath": "/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/ProjetoAvaliativo_Modulo01_Floripamaistec/projeto/labSchool/labSchool/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mariacarolinaboabaid/.nuget/NuGet/NuGet.Config"

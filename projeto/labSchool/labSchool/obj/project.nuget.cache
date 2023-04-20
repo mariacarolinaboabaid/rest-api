@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l69u3DfaVkHOZYCGPfJqbeKL3VMhBIoq6gLou7dVYgf1hV2nzE4H5FA5iC8vcdw3pRCpcZ3lG03Cc5+aW0NB4g==",
+  "dgSpecHash": "wgjUhZ7GnNOs03DnCJQuyQsVt6mpWXCXkH0b9Z0jjF5FIQasBH+xMZ833jyQiXSFONIXY/8qp7XfHSgl3isqJA==",
   "success": true,
-  "projectFilePath": "/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/floripamaistec/Mod_1/projeto/labSchool/labSchool/labSchool.csproj",
+  "projectFilePath": "/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/ProjetoAvaliativo_Modulo01_Floripamaistec/projeto/labSchool/labSchool/labSchool.csproj",
   "expectedPackageFiles": [
     "/Users/mariacarolinaboabaid/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/Users/mariacarolinaboabaid/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

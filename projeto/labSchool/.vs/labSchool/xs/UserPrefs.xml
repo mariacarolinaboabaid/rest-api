@@ -1,24 +1,16 @@
 ﻿<Properties StartupConfiguration="{AB5137B4-A488-4306-9C25-FCB502390F23}|https">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.labSchool PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/floripamaistec/Mod_1/projeto/labSchool/labSchool/Controllers/AlunoController.cs" relfile="labSchool/Controllers/AlunoController.cs" line="150" column="1" />
-      <Breakpoint file="/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/floripamaistec/Mod_1/projeto/labSchool/labSchool/Controllers/AlunoController.cs" relfile="labSchool/Controllers/AlunoController.cs" line="162" column="1" />
-      <Breakpoint file="/Users/mariacarolinaboabaid/Downloads/Senai/GitHub/floripamaistec/Mod_1/projeto/labSchool/labSchool/Controllers/AlunoController.cs" relfile="labSchool/Controllers/AlunoController.cs" line="158" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="labSchool/Validators/AlunoValidator.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.labSchool PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="labSchool/Models/Configurations/AlunoConfiguration.cs">
     <Files>
-      <File FileName="labSchool/Validators/AlunoValidator.cs" Line="13" Column="16" />
-      <File FileName="labSchool/Program.cs" />
-      <File FileName="labSchool/Models/Configurations/AlunoConfiguration.cs" />
-      <File FileName="labSchool/Controllers/AlunoController.cs" Line="158" Column="52" />
-      <File FileName="labSchool/Models/Configurations/PedagogoConfiguration.cs" />
+      <File FileName="labSchool/Validators/AlunoValidator.cs" />
+      <File FileName="labSchool/Controllers/AlunoController.cs" />
       <File FileName="labSchool/Repositories/AlunoRepository.cs" />
-      <File FileName="labSchool/Repositories/Interfaces/IAlunoRepository.cs" />
+      <File FileName="labSchool/appsettings.Development.json" />
+      <File FileName="labSchool/Models/Configurations/AlunoConfiguration.cs" Line="53" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -35,13 +27,14 @@
               <Node name="Repositories" expanded="True">
                 <Node name="Interfaces" expanded="True" />
               </Node>
-              <Node name="Validators" expanded="True">
-                <Node name="AlunoValidator.cs" selected="True" />
-              </Node>
+              <Node name="Validators" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

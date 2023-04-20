@@ -37,7 +37,7 @@ namespace labSchool.Validators
                 .Must(Valida_Situacao).
                 WithMessage("O campo SITUAÇÃO MATRÍCULA apenas aceita os seguintes valores: 'ATIVO', 'IRREGULAR', 'ATENDIMENTO', 'ATENDIMENTO_PEDAGOGICO' e 'INATIVO'.");
 
-            RuleFor(x => x.NotaProcessoSeletivo).NotEmpty()
+            RuleFor(x => x.NotaProcessoSeletivo)
                 .NotNull()
                 .WithMessage("O campo NOTA possui preenchimento obrigatório.")
                 .InclusiveBetween(0,10)
