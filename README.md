@@ -55,7 +55,7 @@ $ cd API-REST
 
 ```
  "ConnectionStrings": {
-    "LabSchoolContext" : "Data Source=/yourlocalpath/[alexandre]labschoolbd.db;"
+    "LabSchoolContext" : "Data Source=/yourlocalpath/labschoolbd.db;"
   } 
 ```
 
