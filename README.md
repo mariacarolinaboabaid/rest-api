@@ -1,4 +1,4 @@
-💻 Project
+#💻 Project
 REST API for school management.
 
 The project was developed as the final project of the first module of the Professionalizing course in FullStack development.
